@@ -1,2 +1,2 @@
 # medalhas
-ganhando medalha.
+ganhando medalha
